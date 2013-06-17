@@ -1,0 +1,16 @@
+This repository contins different programming languages implementating the Hello World program.
+Purely used for reference purposes, mainly to see the syntax of a language before beginning it.
+Not used for the most efficient method of implementating each (i.e. didn't flush buffer in C++).
+
+Languages include:
+C
+C++
+C#
+HTML
+Java
+JavaScript
+Perl
+PHP
+Python 2.7
+Ruby
+Scheme
