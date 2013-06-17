@@ -1,6 +1,6 @@
-This repository contins different programming languages implementating the Hello World program.
+This repository contains different programming language implementations of the Hello World program.
 Purely used for reference purposes, mainly to see the syntax of a language before beginning it.
-Not used for the most efficient method of implementating each (i.e. didn't flush buffer in C++).
+Not used for the most efficient method of implementing each (i.e. didn't flush buffer in C++).
 
 Languages include:
 C
